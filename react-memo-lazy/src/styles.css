@@ -1,0 +1,40 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #eef2f7;
+}
+
+.container {
+  padding: 30px;
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+}
+
+.counter-btn {
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background: #4f46e5;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+.counter-btn:hover {
+  background: #4338ca;
+}
+
+.loader {
+  padding: 20px;
+  font-size: 18px;
+}
+
+.heavy-card {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
